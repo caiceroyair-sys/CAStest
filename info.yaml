@@ -1,7 +1,7 @@
 # Tiny Tapeout project information (Wokwi project)
 project:
-  wokwi_id:     446547379244279809       # Set this to the ID of your Wokwi project (the number from the project's URL)
-  title:        "Xor"      # Project title
+  wokwi_id:     446551077195655169       # Set this to the ID of your Wokwi project (the number from the project's URL)
+  title:        "xorTest"      # Project title
   author:       "Yair Caicero"      # Your name
   discord:      "camaron15"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "just a test of a xor gate"      # One line description of what your project does
